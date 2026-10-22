@@ -1,4 +1,4 @@
-<img align="right" src="pumpcat2-2.gif" width="100" height="750" alt="gif" />
+<img align="right" src="pumpcat2-2.gif" width="100" height="1000" alt="gif" />
 Salut, moi c'est [Ton Prénom] 👋
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
