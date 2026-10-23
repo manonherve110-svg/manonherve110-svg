@@ -2,8 +2,7 @@
 
 Salut, moi c'est Manon 👋
 
-Étudiante en IA/Big Data, je porte un intérêt particulier au Deep Learning, notamment à la conception et à l'optimisation de modèles d'apprentissage profond.
-
-Animée par une réelle volonté d'apprendre, je cherche continuellement à approfondir mes compétences techniques et à relever de nouveaux défis dans le domaine de l'intelligence artificielle.💪
+Étudiante en IA / Big Data, je m’intéresse énormement au deep learning. J’essaie de me tenir au courant des nouveautés, même si dans ce domaine, il y a toujours une nouvelle avancée à découvrir avant d’avoir fini de comprendre la précédente.
+Mon objectif : améliorer mes competences, projet après projet. 💪💪
 
 <br clear="right"/>
